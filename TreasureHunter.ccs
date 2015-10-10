@@ -1,0 +1,10 @@
+<Solution>
+  <PropertyGroup Name="TreasureHunter" Version="2.3.1.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="SetScene.csd" Type="Scene" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
